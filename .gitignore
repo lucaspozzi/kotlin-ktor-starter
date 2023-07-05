@@ -8,6 +8,7 @@ out
 .DS_Store
 .env*
 .freshcloud
+**/bin/*
 applications/basic-server/bin/main/logback.xml
 applications/basic-server/bin/main/io/collective/start/App.kt
 applications/basic-server/bin/main/style/favicon.svg
